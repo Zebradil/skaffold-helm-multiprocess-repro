@@ -1,0 +1,10 @@
+apiVersion: skaffold/v3
+metadata:
+  name: foo
+kind: Config
+manifests:
+  helm:
+    releases:
+      - name: foo
+        namespace: foo-ns
+        chartPath: ./foo

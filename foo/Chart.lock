@@ -1,0 +1,12 @@
+dependencies:
+- name: bar
+  repository: file://../bar
+  version: 0.1.0
+- name: bar
+  repository: file://../bar
+  version: 0.1.0
+- name: bar
+  repository: file://../bar
+  version: 0.1.0
+digest: sha256:ee99601e584bd7ec4385c22fef9b8cfeadeddf695dc52ca048efc6ea29e40e5e
+generated: "2025-01-10T21:38:24.327038+01:00"

@@ -1,0 +1,2 @@
+std out err: %!(EXTRA *errors.errorString=Error: lstat /private/var/folders/w4/nsbl5rq524b1r2w_jzh2q45m0000gp/T/tmp.B8ITfAHBHc/foo/tmpcharts-83163: no such file or directory
+)
